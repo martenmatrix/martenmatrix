@@ -2,7 +2,7 @@
 Hey👋, I'm Marten.
 </p>
 
-I'm currently working full-time on [Premiere](https://www.adobe.com/products/premiere.html) at Adobe. I've got a bachelor's in Computer Science and have been interested in transistors since an early age.
+I'm currently working full-time on [Premiere](https://www.adobe.com/products/premiere.html) at [Adobe](https://www.adobe.com). I've got a bachelor's in Computer Science and have been interested in transistors since an early age.
 
 In my free time, I contribute to open-source projects and work on my own when I'm not running, skiing, lifting weights, or paragliding.
 
